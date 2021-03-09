@@ -1,0 +1,5 @@
+#Hello - gives you a nice greeting!
+#Quote - quotes a random quotes API
+#xkcd (number) - brings the designated xkcd comic number
+
+Stay Tuned for more commands to be added in the future!
